@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+ul li{
+    text-decoration: none;
+    list-style-position: inside;
+    text-align: center;
+    display: inline;
+    padding: 5px;
+}
+#game{
+    width: 200px;
+}
+ol li{
+    text-decoration: none;
+    list-style-position: inside;
+}
+#razer{
+    width: 200px;
+}
+#logi{
+    width: 200px;
+}
+#anah1{
+    color: red;
+}
+h2, h3 {
+    color: blue;
+}
+
+.hh{
+    color: red;
+}
